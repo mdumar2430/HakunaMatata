@@ -1,0 +1,131 @@
+@charset "ISO-8859-1";
+#topbar
+{
+	background-color:black;
+	height:10px;
+	width:100%;
+}
+body
+{
+	background-color:#ccffff;
+}
+#container
+{
+	background-color:#ccffff;
+	width:100%;
+	margin:0px auto;
+}
+#header
+{
+	background-color:white;
+	height:200px;
+	width:100%;
+}
+#header img
+{
+	float:left;
+	margin-left:60px
+}
+#header ul
+{
+	float:right;
+	margin-top:90px;
+}
+#header ul li
+{
+	display:inline;
+	margin-right:80px;
+}
+#header ul li a
+{
+	color:grey;
+	text-decoration:none;
+	font-size:20px;
+}
+#banner img
+{
+	width:100%;
+	padding-bottom:20px;
+}
+#Products ul
+{
+	justify-content: center;
+	display: flex;
+	margin-top:10px;
+}
+#Products ul li
+{
+	display:inline;
+	padding-right:90px;
+}
+#Products ul li a
+{
+	color:grey;
+	text-decoration:none;
+	font-size:18px;
+}
+#case
+{
+	background-color:#ffb3b3;
+	width:32%;	
+	height:500px;
+	float:left;
+	margin-right:2%
+}
+#earbuds
+{
+	background-color:	#b3d9ff;
+	width:32%;	
+	height:500px;
+	float:left;
+	margin-right:2%;
+}
+#headphones
+{
+	background-color:	#b3ffd9;
+	width:32%;	
+	height:500px;
+	float:left;
+}
+
+.Header
+{	
+	padding-top:0px;
+	background-color:black;
+	color:white;
+}
+.center 
+{
+ 	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}
+.Buy
+{
+	text-decoration:none;
+	color:black;
+	background-color:yellow;
+	padding:8px;
+	margin-left:45%
+}
+#final h4
+{
+	font-size:30px;
+  	color:#b8860b;
+  	font-family: "Lucida handwriting";
+  	text-align: center;
+	padding-top:20px;
+}
+#final p2
+{
+	font-size:19px;
+  	color:black;
+  	font-family: "Lucida Console";
+  	text-align: center;
+}
+#bottombar
+{
+	background-color:black;
+	height:10px;
+	width:100%;
+}
